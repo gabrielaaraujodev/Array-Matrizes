@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\source\repos\Matrizes\R-01\bin\Debug\R-01.exe.config
+C:\Users\Gabriel Araujo\source\repos\Matrizes\R-01\bin\Debug\R-01.exe
+C:\Users\Gabriel Araujo\source\repos\Matrizes\R-01\bin\Debug\R-01.pdb
+C:\Users\Gabriel Araujo\source\repos\Matrizes\R-01\obj\Debug\R-01.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\source\repos\Matrizes\R-01\obj\Debug\R-01.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\source\repos\Matrizes\R-01\obj\Debug\R-01.exe
+C:\Users\Gabriel Araujo\source\repos\Matrizes\R-01\obj\Debug\R-01.pdb
